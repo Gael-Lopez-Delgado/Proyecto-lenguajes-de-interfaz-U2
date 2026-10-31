@@ -1,4 +1,4 @@
-# Informe breve — Pixel Store
+# Informe breve 
 
 ## 1. Negocio elegido
 Se eligió una tienda de videojuegos llamada **Pixel Store**, dedicada a la venta de controles, audífonos, videojuegos y accesorios. El catálogo permite registrar hasta diez productos.
