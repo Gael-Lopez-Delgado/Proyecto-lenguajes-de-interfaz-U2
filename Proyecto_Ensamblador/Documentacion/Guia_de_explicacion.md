@@ -1,4 +1,4 @@
-# Guía para explicar el código — Pixel Store
+# Guía para explicar el código 
 
 ## 1. Explicación general
 “Mi proyecto es un sistema de ventas e inventario para una tienda de videojuegos. Permite registrar y buscar productos, recibir mercancía, vender, consultar un resumen y guardar o recuperar el catálogo. La regla adicional es un descuento del 10% cuando se compran tres o más unidades del mismo producto.”
